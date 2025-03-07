@@ -1,2 +1,4 @@
-# K-Prototypes-
-Algoritmo mejorado de K-Prototypes utilizando un método probabilístico para la selección de centroides y técnicas avanzadas para ajustar los pesos, con el fin de mejorar la segmentación de datos mixtos y aumentar la precisión y eficiencia del proceso de agrupamiento en entornos con grandes volúmenes de datos.
+# K-Prototypes++
+K-Prototypes++ es una versión mejorada del algoritmo K-Prototypes que optimiza tanto la eficiencia como, en ciertos casos, la calidad de los grupos generados. Utilizando un método probabilístico para la selección de centroides, con el fin de mejorar la segmentación de datos mixtos y aumentar la precisión y eficiencia del proceso de agrupamiento.
+ 
+Su efectividad, sin embargo, puede variar según las características del conjunto de datos, por lo que es recomendable evaluar su rendimiento de manera específica antes de adoptarlo. Como posibles líneas de investigación futura, sería interesante explorar su combinación con otras técnicas, como la reducción de dimensionalidad o el uso de métricas de distancia más avanzadas, con el fin de potenciar aún más su desempeño en conjuntos de datos complejos.
